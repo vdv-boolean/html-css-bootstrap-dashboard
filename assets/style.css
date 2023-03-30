@@ -8,3 +8,7 @@ Navbar
 .navbar .fa-bell {
     color: #FF8400;
 }
+
+.bg_aside {
+    background-image: url(../img/sidebar-bg.png);
+}
